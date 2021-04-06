@@ -1,0 +1,220 @@
+body
+{
+    text-align: center;
+}
+#welcome {
+    color: #FFFFFF;
+    bottom: 0;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+    display: table;
+    width: 100%;
+    height: 500%;
+    z-index: 9;
+    
+}
+
+#videos iframe
+{
+    width: 80%;
+}
+
+.my_nav_bar
+{
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+
+#videos{
+  height: 500px;
+    width: 700px;
+}
+
+h1 {
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+h2{
+   font-size: 35px; 
+}
+
+#map{
+    margin-left: 20px;
+}
+
+#principal{
+    margin-left: 250px;
+}
+
+#videos{
+    height: 100%;
+    width: 100%;
+}
+
+.travel_mainDiv {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+    border: 1px solid #c7c7c7;
+}
+
+.travel_mainDiv img{
+    width:500px;
+    height: 300px;
+}
+
+.travel_mainDiv hr{
+    width: 100%;
+}
+
+.travel_mainDiv h5 , .travel_mainDiv p{
+    margin-left: 20px;
+}
+
+#achievementsID{
+    padding-bottom: 10px;
+}
+
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i{
+    float: right;
+}
+
+.movie_head span{
+    color: #ff7700;
+    height: 30px;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+#cl{
+    text-align: center;
+}
+
+#sa{
+    text-align: center
+}
+
+.row::after{
+
+    clear: both;
+    display: table;
+}
+
+.environment_li1{
+    margin-top: 13px;
+}
+
+.environment_li2{
+    margin-top: 13px;
+   background-color: antiquewhite;
+}
+
+.environment_li1 h4{
+    border-bottom: 1px solid white;
+     padding: 8px;
+     font-size: 23px;
+}
+
+.environment_li2 h4{
+    border-bottom: 1px solid white;
+     padding: 8px;
+     font-size: 23px;
+}
+
+.environment_li1 p{
+    margin-top: 10px;
+    font-size: 16px;
+}
+
+.environment_li2 p{
+    margin-top: 10px;
+    font-size: 16px;
+}
+
+.environment_li1 img{
+    border-radius: 25px;
+    height: 250px;
+}
+
+.environment_li2 img{
+    border-radius: 25px;
+    height: 250px;
+}
+
+.header_entrepreneur { 
+    line-height: 2; 
+}
+
+.photography {
+    cursor: pointer; 
+}
+
+.photography hr {
+    margin-bottom: 10px;
+}
+
+.modal-content { 
+    margin-top: 100px; 
+}
+
+img{ 
+    display: inline-block;
+    
+} 
+
+.p_modal {
+    margin-top: 10px; 
+} 
+
+.modal-body { 
+    text-align: center 
+}
+
+#principal{
+    height: 350px;
+    width: 400px
+}
+
+#img2{
+    height: 400px;
+    width: 800px;
+}
+
+#img-1{
+    margin-right: 30px;
+}
+
+#img-2{
+    margin-right: 30px;
+}
+
+#img-3{
+    margin-right: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
